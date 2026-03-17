@@ -6,3 +6,7 @@ node_modules/
 .DS_Store
 *.db
 *.sqlite3
+db_data/
+.vscode/
+.idea/
+*.log
